@@ -1,0 +1,32 @@
+{
+  "name": "codex-covers",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fletcherist/codex-covers.git"
+  },
+  "author": "Phil Romanov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fletcherist/codex-covers/issues"
+  },
+  "homepage": "https://github.com/fletcherist/codex-covers#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-eslint": "^8.0.1",
+    "babel-preset-flow": "^6.23.0",
+    "eslint": "^4.8.0",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-flowtype": "^2.37.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-node": "^5.2.0",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^3.0.1",
+    "flow-bin": "^0.56.0"
+  }
+}
